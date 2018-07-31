@@ -13,3 +13,7 @@ If you want to by pass setting up the workbook, you can always spin up a new DE 
 
 https://login.salesforce.com/packaging/installPackage.apexp?p0=04ti0000000Pj8s
 
+<a href="https://githubsfdeploy.herokuapp.com">
+  <img alt="Deploy to Salesforce"
+       src="https://raw.githubusercontent.com/afawcett/githubsfdeploy/master/deploy.png">
+</a>
